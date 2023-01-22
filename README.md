@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-🔭 I'm currently working on open-source projects<br>🤝 I'm looking to collaborate on Software Engineering projects<br>🔍 I'm exploring an intersection between Software Engineering and Machine Learning<br>🌱 I'm currently learning ReactJs and NodeJS<br>💭 Ask me about Data Science, Design Thinking and User Research<br>🎈 Fun Fact: I love cycling, enjoying beautiful views and mobile photography<br><br> I'm all about ✨ *KAIZEN* ✨
+🔭 I'm currently working on open-source projects and Data Structures and Algorithms<br>🤝 I'm looking to collaborate on Software Engineering projects<br>🔍 I'm exploring an intersection between Software Engineering and Machine Learning<br>🌱 I'm currently learning ReactJs and NodeJS<br>💭 Ask me about Data Science, DSA, Design Thinking and User Research<br>🎈 Fun Fact: I love cycling, enjoying beautiful views and mobile photography<br><br> I'm all about ✨ *KAIZEN* ✨
 
 
 ## 🌐 Socials:
