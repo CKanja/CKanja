@@ -1,7 +1,6 @@
 ### Hi there ✨
 
-<!--
-**CKanja/CKanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 💫 About Me:
 🔭 I'm currently working on open-source projects<br>🤝 I'm looking to collaborate on Software Engineering projects<br>🔍 I'm exploring an intersection between Software Engineering and Machine Learning<br>🌱 I'm currently learning ReactJs and NodeJS<br>💭 Ask me about Data Science, Design Thinking and User Research<br>🎈 Fun Fact: I love cycling, enjoying beautiful views and mobile photography<br>✨ KAIZEN ✨
